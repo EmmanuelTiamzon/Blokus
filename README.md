@@ -59,6 +59,8 @@ Le programme utilise la bibliothèque graphique **`graph.h`**. Assurez-vous qu�
    gcc main.c graphique.c jeu.c utilitaires.c -o jeu -lgraph ; ./jeu
 
 ## Auteur
-
 * Prénom Nom : Wael ATIK & Emmanuel TIAMZON
 * Étudiant à l’IUT de Fontainebleau (UPEC)
+
+## Remarque
+Ce projet n’est pas destiné à un usage commercial. Il a été créé dans un but d’apprentissage uniquement.
