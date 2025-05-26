@@ -57,3 +57,8 @@ Le programme utilise la bibliothèque graphique **`graph.h`**. Assurez-vous qu�
    make run
 	ou si vous ne souhaitez pas utiliser le Makefile même s'il est la pour simplifier :
    gcc main.c graphique.c jeu.c utilitaires.c -o jeu -lgraph ; ./jeu
+
+## Auteur
+
+* Prénom Nom : Wael ATIK & Emmanuel TIAMZON
+* Étudiant à l’IUT de Fontainebleau (UPEC)
